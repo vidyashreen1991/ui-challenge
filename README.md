@@ -35,7 +35,7 @@ Progress Css3 Animation ( refer [link](https://dribbble.com/shots/1664914-Onboar
 
 Custom Toggle switch CSS3 & OnHover Button Active (refer the attached page 2.1 specification).
 
-![2 0 page2](https://cloud.githubusercontent.com/assets/12729226/16253079/14840a46-3851-11e6-9acc-3425703f6981.jpg)
+![2 0 page2](https://cloud.githubusercontent.com/assets/12729226/16253737/9e33bad4-3856-11e6-9eba-e6e2a7ee9f40.jpg)
 
 **Page 3 :**
 
