@@ -32,23 +32,23 @@ Create a web Application as per the given specifications
 
 **Page 1 :**
 
-Progress Css3 Animation ( refer [link](https://dribbble.com/shots/1664914-Onboarding-Progress-Steps?list=searches&tag=onboarding&offset=31) to see the animation & Also page 1.1 specification inside image folder )
+Progress Css3 Animation ( refer [link](https://dribbble.com/shots/1664914-Onboarding-Progress-Steps?list=searches&tag=onboarding&offset=31) to see the animation & Also page 1.1 specification inside images folder )
 
 ![1 0 page1](https://cloud.githubusercontent.com/assets/12729226/16265721/93a7c59a-389e-11e6-96df-f47b006f6a56.jpg)
 
 **Page 2 :**
 
-Custom Toggle switch CSS3 & OnHover Button Active (refer page 2.1 specification inside image folder).
+Custom Toggle switch CSS3 & OnHover Button Active (refer page 2.1 specification inside images folder).
 
 ![2 0 page2](https://cloud.githubusercontent.com/assets/12729226/16265726/9b964646-389e-11e6-8d4e-4b4a2477e3fa.jpg)
 
 **Page 3 :**
 
-Checklist - List Hover & Active State CSS3 (refer page 3.1 specification inside image folder)
+Checklist - List Hover & Active State CSS3 (refer page 3.1 specification inside images folder)
 
 ![3 0 page3](https://cloud.githubusercontent.com/assets/12729226/16265730/a2af9e00-389e-11e6-9fa7-6e0cf1304d4e.jpg)
 ```
-Attached Page pixel (Width & Height)  Specifications for your reference inside image folder.
+Attached Page pixel (Width & Height) specifications for your reference inside images folder.
 ```
 **Directions for Code:**
 
