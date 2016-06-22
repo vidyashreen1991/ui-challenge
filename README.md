@@ -57,7 +57,9 @@ Attached the Application Page PSD Source file & Icon Set PSD for your reference.
 
 2) Use [Flat Colors](http://flatuicolors.com/)
 
-3) Use Only [Glyph icons](https://icomoon.io/app/) ( Convert all icon to SVG Font icons )
+3) Use Only [Glyph icons](https://icomoon.io/app/)
+
+ ```Note: Use menu icons and logo from images/icon folder```
 
 4) Use SASS or LESSCSS or CSS3
 ```
