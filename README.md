@@ -59,7 +59,7 @@ Attached the Application Page PSD Source file & Icon Set PSD for your reference.
 
 3) Use Only [Glyph icons](https://icomoon.io/app/)
 
- ```Note: Use menu icons and logo from images/icon folder```
+   ```Note: Use menu, animation and logo icon from images/icon folder```
 
 4) Use SASS or LESSCSS or CSS3
 ```
