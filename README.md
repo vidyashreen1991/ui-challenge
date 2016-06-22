@@ -43,7 +43,7 @@ Checklist - List Hover & Active State CSS3 (refer the attached page 3.1 specific
 
 ![3 0 page3](https://cloud.githubusercontent.com/assets/12729226/16253128/64b97c1c-3851-11e6-8f34-cb68a1e30b37.jpg)
 ```
-Attached the Application Page PSD Source file & Icon Set PSD for your reference. Also Attached Page pixel 
+Attached the Application Page PSD Source file & Icon Set PSD for your reference. Also Attached Page pixel
 (Width & Height)  Specifications for your reference inside image folder.
 ```
 **Directions for Code:**
@@ -56,7 +56,7 @@ Attached the Application Page PSD Source file & Icon Set PSD for your reference.
 
 4) Use SASS or LESSCSS or CSS3
 ```
-NOTE: If your code is SASS or LESSCSS  or CSS3 ( Send .less file., .scss files and Compiled .css file)
+NOTE: If your code is SASS or LESSCSS  or CSS3 ( Send .less file. or .scss files and Compiled .css file)
 ```
 5) Implement Responsive
 
