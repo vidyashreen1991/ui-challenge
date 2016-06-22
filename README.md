@@ -37,9 +37,7 @@ Custom Toggle switch CSS3 & OnHover Button Active (refer the attached page 2.1 s
 
 Checklist - List Hover & Active State CSS3 (refer the attached page 3.1 specification)
 ```
-Attached the Application Page PSD Source file & Icon Set PSD for your
-reference. Also Attached Page pixel (Width & Height) Specifications
-for your reference.
+Attached the Application Page PSD Source file & Icon Set PSD for your reference. Also Attached Page pixel (Width & Height)  Specifications for your reference.
 ```
 **Directions for Code:**
 
@@ -51,8 +49,7 @@ for your reference.
 
 4) Use SASS or LESSCSS or CSS3
 ```
-NOTE: If your code is SASS or LESSCSS  or CSS3 ( Send .less file., .scss
-  files and Compiled .css file)
+NOTE: If your code is SASS or LESSCSS  or CSS3 ( Send .less file., .scss files and Compiled .css file)
 ```
 5) Implement Responsive
 
