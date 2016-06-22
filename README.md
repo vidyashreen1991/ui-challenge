@@ -48,8 +48,7 @@ Checklist - List Hover & Active State CSS3 (refer page 3.1 specification inside 
 
 ![3 0 page3](https://cloud.githubusercontent.com/assets/12729226/16253128/64b97c1c-3851-11e6-8f34-cb68a1e30b37.jpg)
 ```
-Attached the Application Page PSD Source file & Icon Set PSD for your reference. Also Attached Page pixel
-(Width & Height)  Specifications for your reference inside image folder.
+Attached Page pixel (Width & Height)  Specifications for your reference inside image folder.
 ```
 **Directions for Code:**
 
@@ -58,8 +57,6 @@ Attached the Application Page PSD Source file & Icon Set PSD for your reference.
 2) Use [Flat Colors](http://flatuicolors.com/)
 
 3) Use Only [Glyph icons](https://icomoon.io/app/)
-
-   ```Note: Use menu, animation and logo icon from images/icon folder```
 
 4) Use SASS or LESSCSS or CSS3
 ```
