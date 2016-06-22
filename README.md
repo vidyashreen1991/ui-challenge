@@ -60,10 +60,10 @@ NOTE: If your code is SASS or LESSCSS  or CSS3 ( Send .less file. or .scss files
 ```
 5) Implement Responsive
 
-Desktop: 1170px (Large Screen ≥1200px )
+- Desktop: 1170px (Large Screen ≥1200px )
 
-Laptop:  970px  (Medium Screen ≥992px )
+- Laptop:  970px  (Medium Screen ≥992px )
 
-Tablet:  750px  (Tablets Screen ≥768px )
+- Tablet:  750px  (Tablets Screen ≥768px )
 
-Mobile:  724px  (Mobile Screen <768px )
+- Mobile:  724px  (Mobile Screen <768px )
