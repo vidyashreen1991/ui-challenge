@@ -29,15 +29,22 @@ Create a web Application as per the given specifications
 
 Progress Css3 Animation ( refer [link](https://dribbble.com/shots/1664914-Onboarding-Progress-Steps?list=searches&tag=onboarding&offset=31) to see the animation & Also refer the attached page 1.1 specification )
 
+![1 0 page1](https://cloud.githubusercontent.com/assets/12729226/16253066/fad5c846-3850-11e6-89a3-300b9bef1e52.jpg)
+
 **Page 2 :**
 
-Custom Toggle switch CSS3 & OnHover Button Active (refer the attached page 2.1 specification)
+Custom Toggle switch CSS3 & OnHover Button Active (refer the attached page 2.1 specification).
+
+![2 0 page2](https://cloud.githubusercontent.com/assets/12729226/16253079/14840a46-3851-11e6-9acc-3425703f6981.jpg)
 
 **Page 3 :**
 
 Checklist - List Hover & Active State CSS3 (refer the attached page 3.1 specification)
+
+![3 0 page3](https://cloud.githubusercontent.com/assets/12729226/16253128/64b97c1c-3851-11e6-8f34-cb68a1e30b37.jpg)
 ```
-Attached the Application Page PSD Source file & Icon Set PSD for your reference. Also Attached Page pixel (Width & Height)  Specifications for your reference.
+Attached the Application Page PSD Source file & Icon Set PSD for your reference. Also Attached Page pixel 
+(Width & Height)  Specifications for your reference inside image folder.
 ```
 **Directions for Code:**
 
