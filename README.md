@@ -30,6 +30,8 @@ We would like you to follow the Github flow to participate in the coding challen
 ### Challenge
 Create a web Application as per the given specifications
 
+**Please Note: Don't write any Javascript code for this task**
+
 **Page 1 :**
 
 Progress Css3 Animation ( refer [link](https://dribbble.com/shots/1664914-Onboarding-Progress-Steps?list=searches&tag=onboarding&offset=31) to see the animation)
