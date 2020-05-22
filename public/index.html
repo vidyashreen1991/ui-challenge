@@ -1,10 +1,198 @@
 <!DOCTYPE html>
 <html>
-	<head>
-    <title>Create a Web page</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">   
-	</head>
+
+<head>
+	<title>Create a Web page</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+	<!-- Popper JS -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+	<!-- custom styles -->
+	<link rel="stylesheet" href="./css/styles.css">
+</head>
+
 <body>
-	<h1>Here you go!</h1>
+	<div class="container-fluid px-0">
+		<header class="d-flex header">
+			<img src="../images/logo.png" class="logo h-100" />
+			<div class="header-bar h-100 flex-grow-1">
+			</div>
+		</header>
+		<div class="d-flex sub-header">
+			<div class="menu-text h-100 flex-center-x-y">
+				Menu
+			</div>
+			<div class="h-100 flex-grow-1">
+			</div>
+		</div>
+		<div class="container-fluid d-flex px-0">
+			<div class="nav flex-column  cust-nav-bar" id="tab" role="tablist" aria-orientation="vertical">
+				<a class="nav-icon mx-auto" id="page-1-tab" data-toggle="pill" href="#page-1" role="tab"
+					aria-controls="page-1" aria-selected="false">
+					<img alt="">
+				</a>
+				<a class="nav-icon mx-auto" id="page-2-tab" data-toggle="pill" href="#page-2" role="tab"
+					aria-controls="page-2" aria-selected="false">
+					<img alt="">
+				</a>
+				<a class="nav-icon mx-auto" id="page-3-tab" data-toggle="pill" href="#page-3" role="tab"
+					aria-controls="page-3" aria-selected="false">
+					<img alt="">
+				</a>
+			</div>
+
+			<div class="tab-content flex-grow-1 page-content" id="tabContent">
+				<div class="tab-pane h-100" id="page-1" role="tabpanel" aria-labelledby="page-1-tab">
+					<div class="flex-center-x-y page-1">
+						<div class="flex-center-x-y progress-bar-stepper step-icon">
+							<img src="../images/gift.svg" class="icon gift-icon">
+							<div class="step-connector"></div>
+						</div>
+
+						<div class="progress-bar-stepper step-icon flex-center-x-y">
+							<img src="../images/truck.svg" class="icon truck-icon">
+							<div class="step-connector"></div>
+						</div>
+						<div class="progress-bar-stepper step-icon flex-center-x-y">
+							<img src="../images/profile-male.svg" class="icon profile-icon">
+						</div>
+					</div>
+				</div>
+				<div class="tab-pane h-100" id="page-2" role="tabpanel" aria-labelledby="page-2-tab">
+					<div class="flex-center-x-y page-2">
+						<div class="progress-bar-stepper step-button-container height-100px flex-center-x-y">
+							<div class="pos-abs bottom-0">Button 1</div>
+							<div class="step-button"></div>
+						</div>
+						<div class="progress-bar-stepper step-button-container height-100px flex-center-x-y">
+							<div class="pos-abs bottom-0">Button 2</div>
+							<div class="step-button"></div>
+						</div>
+						<div class="progress-bar-stepper step-button-container height-100px flex-center-x-y">
+							<div class="pos-abs bottom-0">Button 3</div>
+							<div class="step-button"></div>
+						</div>
+						<div class="progress-bar-stepper step-button-container height-100px flex-center-x-y">
+							<div class="pos-abs bottom-0">Button 4</div>
+							<div class="step-button"></div>
+						</div>
+						<div class="progress-bar-stepper step-button-container height-100px flex-center-x-y">
+							<div class="pos-abs bottom-0">Button 5</div>
+							<div class="step-button"></div>
+						</div>
+					</div>
+				</div>
+				<div class="tab-pane  h-100 w-100" id="page-3" role="tabpanel" aria-labelledby="page-3-tab">
+					<div class="h-100 flex-center-x-y">
+						<div class="page-3">
+							<div class="container-fluid">
+								<div class="row active">
+									<div class="col-sm-8 border-top-0 ellipsis">
+										Lorem ipsum dolor
+									</div>
+									<div class="col-sm-1 border-top-0 flex-center-x-y image-container">
+										<img src="../images/eye.svg" alt="">
+									</div>
+									<div class="col-sm-1 border-top-0 flex-center-x-y image-container">
+										<img src="../images/share.svg" alt="">
+									</div>
+									<div class="col-sm-1 border-top-0 flex-center-x-y image-container">
+										<img src="../images/download.svg" alt="">
+									</div>
+									<div class="col-sm-1 border-top-0 flex-center-x-y image-container">
+										<img src="../images/mail.svg" alt="">
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-sm-8 ellipsis">
+										Consectetuer adipiscing sectetuer Consectetuer adipiscing sectetuer
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/eye.svg" alt="">
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/share.svg" alt="">
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/download.svg" alt="">
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/mail.svg" alt="">
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-sm-8 d-inline-block ellipsis">
+										Vulputate velit esse
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/eye.svg" alt="">
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/share.svg" alt="">
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/download.svg" alt="">
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/mail.svg" alt="">
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-sm-8 d-inline-block ellipsis">
+										Bandit praesent
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/eye.svg" alt="">
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/share.svg" alt="">
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/download.svg" alt="">
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/mail.svg" alt="">
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-sm-8 d-inline-block ellipsis">
+										Dolore magna aliquam
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/eye.svg" alt="">
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/share.svg" alt="">
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/download.svg" alt="">
+									</div>
+									<div class="col-sm-1 flex-center-x-y">
+										<img src="../images/mail.svg" alt="">
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
 </body>
+<script>
+	$(function () {
+	  $('#page-1-tab').tab('show')
+	})
+  </script>
 </html>
